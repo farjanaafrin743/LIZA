@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -253,7 +254,7 @@
 
             <p>
                 With lots of love,<br>
-                Your Friend
+                my Friend
             </p>
 
         </div>
